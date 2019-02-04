@@ -1,0 +1,32 @@
+// material theme for paper-tab
+paper-tab {
+    &.iron-selected{
+        color: var(--mdc-theme-primary);
+    }
+    --paper-tab-ink: var(--mdc-theme-primary);
+}
+
+paper-tabs {
+    --paper-tabs-selection-bar-color : var(--mdc-theme-primary);
+    background : var(--mdc-theme-background);
+}
+
+// material theme for paper-input
+paper-input {
+    --paper-input-container-focus-color : var(--mdc-theme-primary);
+    --paper-input-container-invalid-color : var(--mdc-theme-error);
+}
+
+// material theme for paper-progress
+paper-progress{
+    --paper-progress-active-color : var(--mdc-theme-primary); 
+}
+
+paper-spinner-lite{
+    --paper-spinner-color : var(--mdc-theme-primary);    
+}
+
+$mdc-theme-primary: rgb(63,81,181);
+$mdc-theme-error: #d50000;
+
+@import "@material/theme/mdc-theme"
