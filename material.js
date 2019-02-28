@@ -11,6 +11,8 @@ import '@material/mwc-button/mwc-button'
 import '@material/mwc-switch/mwc-switch'
 import '@material/mwc-checkbox/mwc-checkbox'
 import '@material/mwc-icon/mwc-icon'
+import '@authentic/mwc-menu/mwc-menu'
+import '@authentic/mwc-list/mwc-list-item'
 // Paper (Polymer) Components
 import '@polymer/paper-input/paper-input'
 import '@polymer/iron-icon/iron-icon'

@@ -13,6 +13,7 @@
     "node-sass": "^4.11.0"
   },
   "dependencies": {
+    "@authentic/mwc-menu": "^0.3.31",
     "@material/mwc-button": "^0.3.5",
     "@material/mwc-checkbox": "^0.3.5",
     "@material/mwc-icon": "^0.3.5",
