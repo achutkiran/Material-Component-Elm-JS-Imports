@@ -13,7 +13,6 @@ import '@material/mwc-checkbox/mwc-checkbox'
 import '@material/mwc-icon/mwc-icon'
 import '@authentic/mwc-menu/mwc-menu'
 import '@authentic/mwc-list/mwc-list-item'
-import '@material/chips/mdc-chips'
 // Paper (Polymer) Components
 import '@polymer/paper-input/paper-input'
 import '@polymer/iron-icon/iron-icon'

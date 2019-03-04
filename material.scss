@@ -29,4 +29,5 @@ paper-spinner-lite{
 $mdc-theme-primary: rgb(63,81,181);
 $mdc-theme-error: #d50000;
 
-@import "@material/theme/mdc-theme"
+@import "@material/theme/mdc-theme";
+@import "@material/chips/mdc-chips";
