@@ -15,6 +15,7 @@ import '@authentic/mwc-menu/mwc-menu'
 import '@authentic/mwc-list/mwc-list-item'
 // Paper (Polymer) Components
 import '@polymer/paper-input/paper-input'
+import '@polymer/paper-input/paper-textarea'
 import '@polymer/iron-icon/iron-icon'
 import '@polymer/paper-icon-button/paper-icon-button'
 import '@polymer/paper-tabs/paper-tabs'
